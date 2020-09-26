@@ -5,4 +5,5 @@ This repository contains jupyter notebooks and other materials taught in TA sess
 - Introduction to deep learning frameworks
 - Introduction to Python & NumPy
 - Introduction to PyTorch
+- video link : https://drive.google.com/file/d/1iYMNg3iiCZ45lAxildljWq6ZTuPq8FZu/view?usp=sharing
 
