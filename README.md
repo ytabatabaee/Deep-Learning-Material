@@ -10,5 +10,5 @@ This repository contains jupyter notebooks and other materials taught in TA sess
 ## Session 2
 
 - PyTorch modules
-- Run an MLP example 
+- An example of MLP
 - video link : https://drive.google.com/file/d/1eZUI3hEqXAsUdSo9lll-8OgjyoquEoB6/view?usp=sharing
