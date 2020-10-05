@@ -7,3 +7,8 @@ This repository contains jupyter notebooks and other materials taught in TA sess
 - Introduction to PyTorch
 - video link : https://drive.google.com/file/d/1iYMNg3iiCZ45lAxildljWq6ZTuPq8FZu/view?usp=sharing
 
+## Session 2
+
+- PyTorch modules
+- Run an MLP example 
+- video link : https://drive.google.com/file/d/1eZUI3hEqXAsUdSo9lll-8OgjyoquEoB6/view?usp=sharing
