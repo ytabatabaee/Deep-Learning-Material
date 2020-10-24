@@ -25,3 +25,8 @@ This repository contains jupyter notebooks and other materials taught in TA sess
 ## Session 4
 
 ## Session 5
+- Types of Convolutional Neural Nets
+- Custom Dataloader, Transforms
+- Normalization
+- Transfer Learning
+- Video link (part1): https://drive.google.com/file/d/17VbrdsSOg-YRC38cO2YXG3NZ_QWu-Al8/view?usp=sharing
