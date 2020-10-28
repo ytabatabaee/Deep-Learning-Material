@@ -23,6 +23,9 @@ This repository contains jupyter notebooks and other materials taught in TA sess
 - Video and files link: https://drive.google.com/file/d/1rdHf7lrtoxSCxlAoRlEi6ofhMwez7wA5/view?usp=sharing
 
 ## Session 4
+-hardware requirements for NN
+-introduction to CNN with pytorch
+-Video and files link: https://drive.google.com/file/d/1kRSUW4zBi5o2-37QoYeQf1B4dB6konT_/view?usp=sharing
 
 ## Session 5
 - Types of Convolutional Neural Nets
