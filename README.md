@@ -33,3 +33,14 @@ This repository contains jupyter notebooks and other materials taught in TA sess
 - Normalization
 - Transfer Learning
 - Video link (part1): https://drive.google.com/file/d/17VbrdsSOg-YRC38cO2YXG3NZ_QWu-Al8/view?usp=sharing
+
+## Session 6
+- HW2 description
+
+
+## Session 7
+- Intro to Recurrent Neural Networks
+- Intro to TorchText
+- Sentiment Analysis with LSTM
+- Custom Loss function
+- Video link : https://drive.google.com/file/d/11SVYuo5AwhwvRUeY-avUeR3CUXYprIlb/view?usp=sharing
