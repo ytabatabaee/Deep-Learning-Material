@@ -44,3 +44,12 @@ This repository contains jupyter notebooks and other materials taught in TA sess
 - Sentiment Analysis with LSTM
 - Custom Loss function
 - Video link : https://drive.google.com/file/d/11SVYuo5AwhwvRUeY-avUeR3CUXYprIlb/view?usp=sharing
+
+## Session 8 
+### Optimal Material
+- Advanced topics in RNN
+- Video Link (part1): https://drive.google.com/file/d/1jUf88cZBsItppDlSyeV1bRL01ICj4574/view?usp=drivesdk
+- Video Link (part2): https://drive.google.com/file/d/10RcDVK7La5k-0guxilO5-bjeFa2lnRlN/view?usp=drivesdk
+### Necessary Material
+- Implementation of Neural Machine Translation
+- Tutorial Link: https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
