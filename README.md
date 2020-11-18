@@ -32,7 +32,9 @@ This repository contains jupyter notebooks and other materials taught in TA sess
 - Custom Dataloader, Transforms
 - Normalization
 - Transfer Learning
+- train and test  SVHN dataset ----> pkg version : torch==1.1.0 , tensorflow-gpu==1.10.0
 - Video link (part1): https://drive.google.com/file/d/17VbrdsSOg-YRC38cO2YXG3NZ_QWu-Al8/view?usp=sharing
+- Video link (part2): https://drive.google.com/file/d/1lnYPCS9bBznIPCvpwJdSUAsMuUapJfv6/view?usp=sharing
 
 ## Session 6
 - HW2 description
