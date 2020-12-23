@@ -55,3 +55,9 @@ This repository contains jupyter notebooks and other materials taught in TA sess
 ### Necessary Material
 - Implementation of Neural Machine Translation
 - Tutorial Link: https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+
+## Session 10
+- Intro to Graph Neural Nets
+- Intro to NetworkX, Pytorch Geometric
+- A Simple GCN for node classification
+- Video Link: 
