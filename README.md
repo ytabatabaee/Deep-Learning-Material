@@ -60,4 +60,4 @@ This repository contains jupyter notebooks and other materials taught in TA sess
 - Intro to Graph Neural Nets
 - Intro to NetworkX, Pytorch Geometric
 - A Simple GCN for node classification
-- Video Link: 
+- Video Link: https://drive.google.com/file/d/1EY7ybU1EvvxMYJLx3OJykmWKzIpiDdP7/view?usp=sharing
