@@ -56,8 +56,21 @@ This repository contains jupyter notebooks and other materials taught in TA sess
 - Implementation of Neural Machine Translation
 - Tutorial Link: https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
 
+## Session 9
+
+- Neural Networks & Debugging
+- Video Link: https://drive.google.com/file/d/1E0fAigYlL1brF9NK7rq4mzIwGayT0oM7/view?usp=sharing
+
 ## Session 10
+
 - Intro to Graph Neural Nets
 - Intro to NetworkX, Pytorch Geometric
 - A Simple GCN for node classification
 - Video Link: https://drive.google.com/file/d/1EY7ybU1EvvxMYJLx3OJykmWKzIpiDdP7/view?usp=sharing
+
+## Session 11
+
+- Variational AutoEncoder (VAE) 
+- Theory of VAE
+- pytorch code for VAE on MNIST dataset
+- Video Link: https://drive.google.com/file/d/1NDiaGuun6z7L7VikWfs71hmpNN0PUmo6/view?usp=sharing
