@@ -74,3 +74,11 @@ This repository contains jupyter notebooks and other materials taught in TA sess
 - Theory of VAE
 - pytorch code for VAE on MNIST dataset
 - Video Link: https://drive.google.com/file/d/1NDiaGuun6z7L7VikWfs71hmpNN0PUmo6/view?usp=sharing
+
+## Session 12
+
+- VAE and GAN
+- Theory of VAE and GAN 
+- Be Sure to Read "Correction.pdf" !
+- BigGan Pre-trained on IMAGENET Demo.
+- video Link: https://drive.google.com/file/d/1AWNwDeLo-2ZOsyPcyU4NhRpTbIHr6V_m/view?usp=sharing
