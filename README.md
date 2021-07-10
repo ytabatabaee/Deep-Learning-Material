@@ -14,8 +14,6 @@ This repository contains jupyter notebooks and other materials taught in TA sess
 - An example of MLP
 - video link : https://drive.google.com/file/d/1eZUI3hEqXAsUdSo9lll-8OgjyoquEoB6/view?usp=sharing
 
-## Session 2 - Extension
-
 ## Session 3
 
 - HW1 description
